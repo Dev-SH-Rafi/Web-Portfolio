@@ -26,6 +26,7 @@ img{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    padding-bottom: 80px;
     
 }
 section{
@@ -74,4 +75,8 @@ section{
 }
 .ep-2 h3{
     color: orange;
+}
+footer p{
+    text-align: center;
+    margin-top: 20px;
 }
